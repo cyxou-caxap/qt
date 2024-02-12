@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1478990528.jpg</file>
+        <file>chemodany-v-aeroportu.jpg</file>
+        <file>subsidirovannye-bilety.jpg</file>
+        <file>passenger-with-baggage.png</file>
+        <file>753465.png</file>
+        <file>plane-tickets.png</file>
+    </qresource>
+</RCC>
